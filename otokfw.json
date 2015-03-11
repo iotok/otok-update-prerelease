@@ -1,0 +1,21 @@
+{
+	"SourcePath" : "http://192.168.0.40",
+	"ST" : {
+		"Version" : "0.1",
+		"Filename" : "otokfwst_20150301.zip",
+		"Length" : 7985970,
+		"MD5" : "3c3e80c24c2ddb8367d2cb5a28443b24"
+	},
+	"RK" : {
+		"Version" : "0.3",
+		"Filename" : "otokfwrk_20150301.zip",
+		"Length" : 9942169,
+		"MD5" : "a65281101331c00be95fc390cdf193db"
+	},
+	"DB" : {
+		"Version" : "2015-0.2",
+		"Filename" : "otokfwdb_20150301.zip",
+		"Length" : 67657378,
+		"MD5" : "a0ee902122592a5560bd65127a37dbe0"
+	}
+}
