@@ -2,20 +2,20 @@
 	"SourcePath" : "http://192.168.0.40",
 	"ST" : {
 		"Version" : "0.1",
-		"Filename" : "otokfwst_20150301.zip",
-		"Length" : 7985970,
-		"MD5" : "3c3e80c24c2ddb8367d2cb5a28443b24"
+		"Filename" : "otok-st-2015-03.gz",
+		"Length" : 7998469,
+		"MD5" : "25bb74a24290df69baebe850c0fff5b5"
 	},
 	"RK" : {
 		"Version" : "0.3",
-		"Filename" : "otokfwrk_20150301.zip",
-		"Length" : 9942169,
-		"MD5" : "a65281101331c00be95fc390cdf193db"
+		"Filename" : "otok-rk-2015-03.gz",
+		"Length" : 9956852,
+		"MD5" : "e67b86bfefde0a3705b2969af2740b19"
 	},
 	"DB" : {
 		"Version" : "2015-0.2",
-		"Filename" : "otokfwdb_20150301.zip",
-		"Length" : 67657378,
-		"MD5" : "a0ee902122592a5560bd65127a37dbe0"
+		"Filename" : "otok-db-2015-03.gz",
+		"Length" : 67665536,
+		"MD5" : "a2bfb93439f303a3a9f354ff8188e116"
 	}
 }
