@@ -2,20 +2,20 @@
 	"SourcePath" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.0/",
 	"ST" : {
 		"Version" : "0.1",
-		"Filename" : "otok-st-2015-03.gz",
-		"Length" : 7998469,
-		"MD5" : "25bb74a24290df69baebe850c0fff5b5"
+		"Filename" : "otokfw-all-2015-0312.gz",
+		"Length" : 8879345,
+		"MD5" : "0d794de75458eb512f8361350404dc7f"
 	},
 	"RK" : {
 		"Version" : "0.3",
-		"Filename" : "otok-rk-2015-03.gz",
-		"Length" : 9956852,
-		"MD5" : "e67b86bfefde0a3705b2969af2740b19"
+		"Filename" : "otokfw-all-2015-0312.gz",
+		"Length" : 8879345,
+		"MD5" : "0d794de75458eb512f8361350404dc7f"
 	},
 	"DB" : {
 		"Version" : "2015-0.2",
-		"Filename" : "otok-db-2015-03.gz",
-		"Length" : 67665536,
-		"MD5" : "a2bfb93439f303a3a9f354ff8188e116"
+		"Filename" : "otokfw-all-2015-0312.gz",
+		"Length" : 8879345,
+		"MD5" : "0d794de75458eb512f8361350404dc7f"
 	}
 }
