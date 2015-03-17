@@ -1,18 +1,17 @@
 {
-	"SourcePath" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/",
 	"ST" : {
 		"Version" : "0.1",
-		"Filename" : "otok-st-2015-0317.tgz",
+		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-st-2015-0317.tgz",
 		"MD5" : "78d37536a6765e2384cf0ba517b95fca"
 	},
 	"RK" : {
 		"Version" : "1.0",
-		"Filename" : "otok-rk-2015-0317.tgz",
+		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-rk-2015-0317.tgz",
 		"MD5" : "636d6f005eafa36146bd3bb14a0d8680"
 	},
 	"DB" : {
 		"Version" : "2015-0.2",
-		"Filename" : "otok-db-2015-0317.tgz",
+		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-db-2015-0317.tgz",
 		"MD5" : "723a5da9ed1e92c39a6c4720f3cf3d90"
 	}
 }
