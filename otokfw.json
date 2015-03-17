@@ -7,12 +7,12 @@
 	},
 	"RK" : {
 		"Version" : "1.0",
-		"Filename" : "otok-fw-2015-0317.tgz",
-		"MD5" : "13e1f73f51d38c2c3cd795a96af95167"
+		"Filename" : "otok-rk-2015-0317.tgz",
+		"MD5" : "636d6f005eafa36146bd3bb14a0d8680"
 	},
 	"DB" : {
 		"Version" : "2015-0.2",
-		"Filename" : "otok-fw-2015-0317.tgz",
-		"MD5" : "13e1f73f51d38c2c3cd795a96af95167"
+		"Filename" : "otok-db-2015-0317.tgz",
+		"MD5" : "723a5da9ed1e92c39a6c4720f3cf3d90"
 	}
 }
