@@ -3,19 +3,16 @@
 	"ST" : {
 		"Version" : "0.1",
 		"Filename" : "otokfw-all-2015-0312.gz",
-		"Length" : 8879345,
 		"MD5" : "0d794de75458eb512f8361350404dc7f"
 	},
 	"RK" : {
-		"Version" : "0.3",
-		"Filename" : "otokfw-all-2015-0312.gz",
-		"Length" : 8879345,
-		"MD5" : "0d794de75458eb512f8361350404dc7f"
+		"Version" : "1.0",
+		"Filename" : "otok-fw-2015-0317.tgz",
+		"MD5" : "13e1f73f51d38c2c3cd795a96af95167"
 	},
 	"DB" : {
 		"Version" : "2015-0.2",
-		"Filename" : "otokfw-all-2015-0312.gz",
-		"Length" : 8879345,
-		"MD5" : "0d794de75458eb512f8361350404dc7f"
+		"Filename" : "otok-fw-2015-0317.tgz",
+		"MD5" : "13e1f73f51d38c2c3cd795a96af95167"
 	}
 }
