@@ -1,8 +1,8 @@
 {
 	"ST" : {
-		"Version" : "1.4",
-		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-st-2015-0513.tgz",
-		"MD5" : "2194d05c4f9de1cb20368a64c864abe2"
+		"Version" : "1.6",
+		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-st-2015-0602.tgz",
+		"MD5" : "61798b6489797821768751a07b09ff7e"
 	},
 	"RK" : {
 		"Version" : "1.4",
@@ -10,8 +10,8 @@
 		"MD5" : "5296d44bc28c4518e2c00de7a1238990"
 	},
 	"DB" : {
-		"Version" : "2015-0.5",
-		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-db-2015-0512.tgz",
-		"MD5" : "0c0f1151dc7bf99f2c6396093a3c738c"
+		"Version" : "2015-0.6",
+		"URL" : "https://github.com/iotok/otok-update-prerelease/releases/download/v1.0.1/otok-db-2015-0602.tgz",
+		"MD5" : "32d449524ad17ef7057db8a2ac9d75a7"
 	}
 }
